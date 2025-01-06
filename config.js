@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: ' Có ',
     title: `Chị Hương đồng ý làm ny em không 
      👉👈`,
-    desc: 'Em code chữ không hơi mất dạy nhưng quyền lựa chọn của chị ko phải chỉ ở bên trong 1 cái web mà còn ở bên ngoài nữa :(( ',
+    desc: 'Em code chữ Không hơi mất dạy nhưng quyền lựa chọn của chị ko phải chỉ ở bên trong 1 cái web mà còn ở bên ngoài nữa :(( ',
     btnYes: 'Đồng ý ☺️',
     btnNo: 'Không ',
     question:'Cái j cũng cần lí do :3 ',
