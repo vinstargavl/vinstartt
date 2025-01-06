@@ -5,7 +5,8 @@ const CONFIG = {
     Nếu chị không thích em thì thôi vậy
     hãy vào mess và cho em biết `,
     btnIntro: ' Có ',
-    title: 'Chị Hương đồng ý làm ny em không               👉👈',
+    title: `Chị Hương đồng ý làm ny em không 
+     👉👈`,
     desc: 'Em code chữ không hơi mất dạy nhưng quyền lựa chọn của chị ko phải chỉ ở bên trong 1 cái web mà còn ở bên ngoài nữa :(( ',
     btnYes: 'Đồng ý ☺️',
     btnNo: 'Không ',
