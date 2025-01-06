@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi ',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà :)) 🥰',
-    messDesc: '',0
+    messDesc: '',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/vinstardangcap' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
