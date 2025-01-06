@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Chị Hương à , Chị có thích em không,
     nếu không thì thôi vậy :((
     đây chỉ là 1 web em code ra em sẽ không biết được chị chọn j
-    nếu chị không đồng ý thì hãy vào mess và cho em biết :((`,
+    nếu chị không đồng ý thì hãy vào mess và cho em biết :(( `,
     btnIntro: 'Có thích',
     title: 'Chị Hương có đồng ý làm ny em ko 😙',
     desc: 'Em biết code nút Không hơi mất dạy nhưng nếu chị không đồng ý thì hãy nhắn vào mess đề cho em biết😭 ',
